@@ -1,0 +1,28 @@
+.upper{
+    width: 600px;
+    height: 300px;
+    border: 2px solid black;
+}
+.a{
+    height: 100px;
+    width: 600px;
+    background-color: white;
+}
+.b{
+    height: 100px;
+    width: 600px;
+    background-color: #0066b3;
+}
+.c{
+    height: 100px;
+    width: 600px;
+    background-color: white;
+}
+.centre{
+    background-color:#0066b3 ;
+    height: 300px;
+    width: 100px ;
+    position: absolute;
+    top: 10px;
+    left: 140px;
+}
